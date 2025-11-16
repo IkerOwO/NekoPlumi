@@ -7,9 +7,8 @@ Create and enjoy **kawaii notes**, with responsive cards and hover effects that 
 ---
 
 ## 🌟 Features
-
-- ✨ Create new notes and reminders with a title and content  
-- 📰 notes display in **responsive cards**, side by side  
+- ✨ Create new notes and reminder with a title and content  
+- 📰 Notes display in **responsive cards**, side by side  
 - 💫 Hover effect that makes each card “float”  
 - 🎨 Built with **Astro + Tailwind CSS + JS**  
 - 🐱 Cute monospace font **VT323**  
