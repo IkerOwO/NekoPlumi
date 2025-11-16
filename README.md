@@ -1,15 +1,15 @@
 # 🐾 NekoPlumi 🐾
 
-Welcome to **NekoPlumi**, your adorable news web app! 🌸✨  
+Welcome to **NekoPlumi**, your adorable notes web app! 🌸✨  
 
-Create and enjoy **kawaii news posts**, with responsive cards and hover effects that make every post super cute 💖.
+Create and enjoy **kawaii notes**, with responsive cards and hover effects that make every post super cute 💖.
 
 ---
 
 ## 🌟 Features
 
-- ✨ Create new news posts with a title and content  
-- 📰 News posts display in **responsive cards**, side by side  
+- ✨ Create new notes and reminders with a title and content  
+- 📰 notes display in **responsive cards**, side by side  
 - 💫 Hover effect that makes each card “float”  
 - 🎨 Built with **Astro + Tailwind CSS + JS**  
 - 🐱 Cute monospace font **VT323**  
