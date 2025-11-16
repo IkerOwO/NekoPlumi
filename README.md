@@ -1,46 +1,59 @@
-# Astro Starter Kit: Basics
+# 🐾 NekoPlumi 🐾
 
-```sh
-npm create astro@latest -- --template basics
+Welcome to **NekoPlumi**, your adorable news web app! 🌸✨  
+
+Create and enjoy **kawaii news posts**, with responsive cards and hover effects that make every post super cute 💖.
+
+---
+
+## 🌟 Features
+
+- ✨ Create new news posts with a title and content  
+- 📰 News posts display in **responsive cards**, side by side  
+- 💫 Hover effect that makes each card “float”  
+- 🎨 Built with **Astro + Tailwind CSS + JS**  
+- 🐱 Cute monospace font **VT323**  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+```bash
+git clone <your-repo-url>
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
+2.Install dependencies:
+```bash
+npm install
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+3.Run the project in development mode:
+```bash
+npm run dev
+```
 
-## 🧞 Commands
+4.Open your browser at:
+```bash
+http://localhost:3000
+```
 
-All commands are run from the root of the project, from a terminal:
+5.Click the button and create your kawaii news posts! 🌸🐾
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+💻 Technologies
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+-Astro⚡
+
+-Tailwind CSS🎨
+
+-Pure JavaScript 🐱
+
+-Monospace font VT323 🖋️
+
+🎀 Contributions
+Feel free to add more kawaii effects, new sections, or improve the design—everyone is welcome! 💖✨
+
+🐾 Credits
+Made by Iker with love 😺💗
