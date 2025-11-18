@@ -19,7 +19,7 @@ Create and enjoy **kawaii notes**, with responsive cards and hover effects that 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/IkerOwO/NekoPlumi.git)
 ```
 
 2.Install dependencies:
