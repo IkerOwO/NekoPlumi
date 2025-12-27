@@ -1,21 +1,18 @@
 # 🐾 NekoPlumi 🐾
 
-Welcome to **NekoPlumi**, your adorable notes web app! 🌸✨  
-
-Create and enjoy **kawaii notes**, with responsive cards and hover effects that make every post super cute 💖.
+Create and enjoy **notes**, with responsive cards and hover effects.
 
 ---
 
-## 🌟 Features
-- ✨ Create new notes and reminder with a title and content  
-- 📰 Notes display in **responsive cards**, side by side  
-- 💫 Hover effect that makes each card “float”  
-- 🎨 Built with **Astro + Tailwind CSS + JS**  
-- 🐱 Cute monospace font **VT323**  
+## Features
+- Create new notes and reminder with a title and content  
+- Notes display in **responsive cards**, side by side  
+- Hover effect that makes each card “float”  
+- Built with **Astro + Tailwind CSS + JS**  
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
 ```bash
@@ -37,22 +34,20 @@ npm run dev
 http://localhost:3000
 ```
 
-5.Click the button and create your kawaii news posts! 🌸🐾
-
 ---
 
-💻 Technologies
+Technologies
 
--Astro⚡
+-Astro
 
--Tailwind CSS🎨
+-Tailwind CSS
 
--Pure JavaScript 🐱
+-Pure JavaScript 
 
--Monospace font VT323 🖋️
+-Monospace font VT323 
 
-🎀 Contributions
-Feel free to add more kawaii effects, new sections, or improve the design—everyone is welcome! 💖✨
+## Contributions
+Feel free to add more effects, new sections, or improve the design—everyone is welcome! 
 
-🐾 Credits
+## Credits
 Made by Iker with love 😺💗
